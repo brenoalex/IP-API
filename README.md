@@ -1,6 +1,6 @@
 # Desafio--Mundo-DevOps
 
-Intruções de utilização:
+Instruções de utilização:
 1. Descompactar o arquivo do projeto
 2. Na linha de comando do Windows mudar para a pasta raiz do projeto 'IPApi'
 3. Digitar: env\scripts\activate
