@@ -1,4 +1,6 @@
 # IP - API
+Dado um IP válido, a aplicação irá consultar uma API e retornar a cidade de onde esse IP se origina. Possui também um histórico de buscas recentes.
+Tecnologias utilizadas: Python, Django, HTML
 
 Instruções de utilização:
 1. Descompactar o arquivo do projeto
